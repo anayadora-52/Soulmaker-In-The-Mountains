@@ -197,3 +197,6 @@ This repository serves as the official landing page for **Soulmaker in the Mount
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Soulmaker in the Mountains today!**
+
+---
+**Last updated:** 2026-11-06 00:54:22 UTC
