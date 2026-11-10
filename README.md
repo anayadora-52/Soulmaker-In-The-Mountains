@@ -199,4 +199,4 @@ This repository serves as the official landing page for **Soulmaker in the Mount
 **Get the most recent version of Soulmaker in the Mountains today!**
 
 ---
-**Last updated:** 2026-11-10 16:53:23 UTC
+**Last updated:** 2026-11-10 22:13:17 UTC
